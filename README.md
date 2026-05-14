@@ -2,11 +2,12 @@
 
 ## 🚀 About Me
 
-- 🔭 Working on DevOps, Cloud & AI Projects
-- 🌱 Learning Kubernetes, Jenkins, Docker & AWS
-- 🤖 Interested in AI/ML and Automation
-- ☁️ Passionate about Cloud Infrastructure & Scalable Systems
-- 📫 Reach me on LinkedIn or Email
+- 🔭 I’m currently building scalable DevOps pipelines, cloud-native applications, Kubernetes infrastructure, and AI-assisted automation projects
+- 👯 I’m looking to collaborate on DevOps platforms, cloud infrastructure projects, CI/CD automation, Kubernetes deployments, and AI-powered engineering solutions
+- 🤝 I’m looking for help with production-grade Kubernetes architectures, cloud security, Infrastructure as Code (IaC), and scalable monitoring systems
+- 🌱 I’m currently learning Advanced Kubernetes, AWS Cloud Services, Terraform, GitOps, Agentic AI, Model Context Protocol (MCP), and cloud-native scalability patterns
+- 💬 Ask me about DevOps, Kubernetes, Docker, Jenkins, AWS, CI/CD Pipelines, Linux, Monitoring, NGINX, GitHub Actions, Cloud Infrastructure, and AI-assisted Development
+- ⚡ Built and deployed end-to-end cloud-native projects using Docker, Kubernetes, Jenkins, AWS, and monitoring tools while implementing scalable CI/CD automation workflows
 
 ---
 
